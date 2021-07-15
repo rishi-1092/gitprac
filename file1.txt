@@ -3,3 +3,4 @@ test file 1 after C1.
 test line to be ionserted after creating a branch
 test line to be ionserted after commit b1
 test line after merge 1
+test line after am1
